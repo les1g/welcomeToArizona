@@ -1,16 +1,28 @@
-<strong> **DO NOT DISTRIBUTE OR PUBLICLY POST SOLUTIONS TO THESE LABS. MAKE ALL FORKS OF THIS REPOSITORY WITH SOLUTION CODE PRIVATE. PLEASE REFER TO THE STUDENT CODE OF CONDUCT AND ETHICAL EXPECTATIONS FOR COLLEGE OF INFORMATION TECHNOLOGY STUDENTS FOR SPECIFICS. ** </strong>
-# WESTERN GOVERNORS UNIVERSITY 
-## D277 – FRONT-END WEB DEVELOPMENT
+# About
 
-These pages utilize **HTML**, **CSS**, and **Javascript** to create an interface within the online gitlab enviroment. 
+This project is a five-page website built using HTML, CSS, and JavaScript. It is deployed within the online GitLab environment. Its purpose is to introduce the state of Arizona to individuals who may be unfamiliar with it, offering helpful insights for those considering a visit or relocation.
 
-There are a total of five pages. 
-* **Home Page**: Serves as the main entry point and provides an introduction to the state of Arizona, which is the focus of the website.
+* **Home Page**: Welcomes users and provides a general introduction to the state of Arizona.
 
-* **First Page**: Serves to present information about the capitial of Arizona, Phoenix.
+* **First Page**: Highlights key facts and features about Arizona’s capital city, Phoenix.
 
-* **Second Page**: Serves to present information about a non-capital city for the state of Arizona, Glendale.
+* **Second Page**:  Shares information about Glendale, a notable non-capital city in Arizona.
 
-* **Third Page**: Serves to present information about a non-capital city for the state of Arizona, Tempe.
+* **Third Page**: Presents details about Tempe, another vibrant non-capital city in the state.
 
-* **Fourth Page**: Serves as a contact form for users to ask a question.
+* **Fourth Page**: Includes a form where users can submit questions or feedback.
+
+# What I Learned
+
+This was one of my first projects during my studies. It helped me understand the structure of HTML and how to transform raw information into a meaningful, user-friendly interface. I also gained experience in organizing content, styling with CSS, and adding interactivity with JavaScript.
+
+# How To Run
+
+This project is **live** on Github Pages: [les1g.github.io](https://les1g.github.io/welcomeToArizona/)
+
+Alternatively, you may run locally:
+
+1. Clone the repository: [https://github.com/les1g/welcomeToArizona.git](https://github.com/les1g/welcomeToArizona.git)
+
+2. Open `index.html` in your browser.
+
