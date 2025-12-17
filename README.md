@@ -17,12 +17,14 @@ This project is a five-page website built using HTML, CSS, and JavaScript. It is
 This was one of my first projects during my studies. It helped me understand the structure of HTML and how to transform raw information into a meaningful, user-friendly interface. I also gained experience in organizing content, styling with CSS, and adding interactivity with JavaScript.
 
 # How To Run
-
-This project is **live** on Github Pages: [les1g.github.io](https://les1g.github.io/welcomeToArizona/)
+This project is live on GitHub Pages: https://les1g.github.io/welcomeToArizona/
 
 Alternatively, you may run locally:
 
-1. Clone the repository: [https://github.com/les1g/welcomeToArizona.git](https://github.com/les1g/welcomeToArizona.git)
+Clone the repository:  
+```bash
+git clone https://github.com/les1g/welcomeToArizona.git
+```
 
-2. Open `index.html` in your browser.
+Open `index.html` in your browser.
 
