@@ -21,10 +21,10 @@ This project is live on GitHub Pages: https://les1g.github.io/welcomeToArizona/
 
 Alternatively, you may run locally:
 
-Clone the repository:  
+1. Clone the repository:  
 ```bash
 git clone https://github.com/les1g/welcomeToArizona.git
 ```
 
-Open `index.html` in your browser.
+2. Open `index.html` in your browser.
 
